@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "23636153660",
+    "project_id": "snakeai-41481",
+    "storage_bucket": "snakeai-41481.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23636153660:android:37189ef9355572edd0ba39",
+        "android_client_info": {
+          "package_name": "ic.snakeai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23636153660-f2suijdpt5769jra3cbvdklbokmgpeht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ic.snakeai",
+            "certificate_hash": "d0111bbffd8dcd38bd3f1f3238883f9a55d7cfb8"
+          }
+        },
+        {
+          "client_id": "23636153660-q282eh99rpupqvbqicq0v23itlk34r6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ic.snakeai",
+            "certificate_hash": "a579d8b57d6af54b5778b5a5a6f4cae36fe10716"
+          }
+        },
+        {
+          "client_id": "23636153660-sk8r3np1uf31uuu42d3avpq3rn01ddiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ic.snakeai",
+            "certificate_hash": "56b47a3e9b9cac39ae406b6e0b8bdb668823bc87"
+          }
+        },
+        {
+          "client_id": "23636153660-31vhj5fadt6vvc3fev4hgechq8rfb9ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWOruICO6izrV4jydxIcMObvSILE1MFgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23636153660-31vhj5fadt6vvc3fev4hgechq8rfb9ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
